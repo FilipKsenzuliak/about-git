@@ -2,7 +2,7 @@
 
 - take arguments from command line
 -- first member of the team implements object_id, share_count, likes_count FROM FB API about articles in arguments
--- second member of the team parse base domain from URL and find id of domain, and likes count from FB API
+-- JOBS FINISHED
 
 output: {host, fb_id, host_likes_count, url_likes_count, url_shares_count}
 
